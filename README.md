@@ -1,3 +1,1 @@
-# Projet Android - Alban & Marius
-
-API : AudioDB
+# Android Project - Audio app with AudioDB API
